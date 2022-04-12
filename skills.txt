@@ -1,3 +1,0 @@
-ansible
-docker
-ec2
